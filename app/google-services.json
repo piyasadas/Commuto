@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1052773408918",
+    "firebase_url": "https://commutoandroid.firebaseio.com",
+    "project_id": "commutoandroid",
+    "storage_bucket": "commutoandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052773408918:android:37ed6b5395c07ffc",
+        "android_client_info": {
+          "package_name": "com.example.android.commuto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052773408918-1kaem25j9lscd4f46ot622c261i8b47i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.commuto",
+            "certificate_hash": "36d1c818eb756219af8062bc779d980985825e65"
+          }
+        },
+        {
+          "client_id": "1052773408918-mq2l114igk0qk2ceqs22k9melbtv4qo8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWFjGN59GCkOLp5GWMTFbWrjNmhLzRI4k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052773408918-mq2l114igk0qk2ceqs22k9melbtv4qo8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

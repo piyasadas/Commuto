@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Commuto</string>
+    <string name="title_activity_driver_map">Map</string>
+    <string name="title_activity_passenger_map">Map</string>
+    <string name="google_direction_api">AIzaSyDiqmtjIrLVYnPxGbtaRHqCwkLNspbrD5A</string>
+
+</resources>
